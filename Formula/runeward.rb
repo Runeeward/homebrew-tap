@@ -5,28 +5,28 @@
 class Runeward < Formula
   desc "Rune Box: an environment where your agent can roam freely but with receipts"
   homepage "https://github.com/Runeeward/runeward"
-  version "0.4.0"
+  version "0.4.1"
   license "Apache-2.0"
 
   on_macos do
     on_intel do
-      url "https://github.com/Runeeward/runeward/releases/download/v0.4.0/runeward_darwin_amd64.tar.gz"
-      sha256 "5c8c22aaa58496980381ff06c6e3f4fa88a53620788d92a9d16ffbdc68d5d9a8"
+      url "https://github.com/Runeeward/runeward/releases/download/v0.4.1/runeward_darwin_amd64.tar.gz"
+      sha256 "79fc278e01126a91b463e51f6252ab0406d0ca9bf6199a08d80ce3b68218cb38"
     end
     on_arm do
-      url "https://github.com/Runeeward/runeward/releases/download/v0.4.0/runeward_darwin_arm64.tar.gz"
-      sha256 "7eab37422c4a708953855a7a046944dfecc15eac06df31298af10e3796d4678e"
+      url "https://github.com/Runeeward/runeward/releases/download/v0.4.1/runeward_darwin_arm64.tar.gz"
+      sha256 "59a1050f3f83707df75e8c6f19f2d96a0980ef388c134060a1be23cca0ca02f4"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/Runeeward/runeward/releases/download/v0.4.0/runeward_linux_amd64.tar.gz"
-      sha256 "4864c9683e97f10e41fe99f2260402ca3700595887d4be58a4f050b524712d34"
+      url "https://github.com/Runeeward/runeward/releases/download/v0.4.1/runeward_linux_amd64.tar.gz"
+      sha256 "c383d261108999018cdb43a01b5a8f26821d2a1151a950a18bb0f2529e1d423c"
     end
     on_arm do
-      url "https://github.com/Runeeward/runeward/releases/download/v0.4.0/runeward_linux_arm64.tar.gz"
-      sha256 "fdcc006d6ec1c562f31924156c885157c34b5913d8e1dcbe797bf5d1a49af2bc"
+      url "https://github.com/Runeeward/runeward/releases/download/v0.4.1/runeward_linux_arm64.tar.gz"
+      sha256 "65e97771264b2d87f7c5e1e10eee626270d4e3edb4f7b66cddf6bb0dd7cfe732"
     end
   end
 
