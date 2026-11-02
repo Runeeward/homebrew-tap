@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 # Rendered by the Rune Box release workflow; do not edit by hand.
-class Runeward < Formula
-  desc "Rune Box: an environment where your agent can roam freely but with receipts"
+class Runebox < Formula
+  desc "Environment where your agent can roam freely but with receipts"
   homepage "https://github.com/Runeeward/RuneBox"
   license "Apache-2.0"
 
