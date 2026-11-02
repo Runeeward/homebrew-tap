@@ -9,23 +9,23 @@ class Runebox < Formula
 
   on_macos do
     on_intel do
-      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.2/runeward_darwin_amd64.tar.gz"
-      sha256 "936268e8952d23ccfa9bcb1c3e66a59725f10adcda8f17fba2591d282bc4a7d8"
+      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.3/runeward_darwin_amd64.tar.gz"
+      sha256 "7414a31ed0c54328678b47ce2d18c279f5276aaa6f0c0141929d04e68624d43e"
     end
     on_arm do
-      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.2/runeward_darwin_arm64.tar.gz"
-      sha256 "ee73a1ad25c2ce2858affe8f0b51b6aa05d27a7ae27c40b5c792fd1c9943b08c"
+      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.3/runeward_darwin_arm64.tar.gz"
+      sha256 "e77624911b18f79559611605cca7ebe5bb0fad23356e7d1e2166143a77b761da"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.2/runeward_linux_amd64.tar.gz"
-      sha256 "c96f0b683d50503a5f4c8f263f20d051f6d26dce3b657e6fee3638490c55ebaa"
+      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.3/runeward_linux_amd64.tar.gz"
+      sha256 "6035e6b3efc940857a9d04106e77f299178919997ae011d9f0162fd0916e416a"
     end
     on_arm do
-      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.2/runeward_linux_arm64.tar.gz"
-      sha256 "6f7d3c0cc568bfe1087b9b891fa2dc883b7a65e6ff1d6bc60ab3756ea0c2939e"
+      url "https://github.com/Runeeward/RuneBox/releases/download/v0.4.3/runeward_linux_arm64.tar.gz"
+      sha256 "cbb6b88ce24caee2237fdacea1d53a51108a083df1a8d80402685c4fb652ac25"
     end
   end
 
